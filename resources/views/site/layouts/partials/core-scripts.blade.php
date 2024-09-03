@@ -1,0 +1,15 @@
+        <script src="{{ asset('site/assets/js/jquery.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/bootstrap.bundle.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/meanmenu.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/owl.carousel.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/wow.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/nice-select.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/magnific-popup.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/mixitup.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/bootstrap-datepicker.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/form-validator.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/contact-form-script.js') }}"></script>
+        <script src="{{ asset('site/assets/js/ajaxchimp.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/jquery-modal-video.min.js') }}"></script>
+        <script src="{{ asset('site/assets/js/custom.js') }}"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js"></script>
